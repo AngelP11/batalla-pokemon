@@ -1,0 +1,30 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+	text-align: center;
+	font-family: arial;
+}
+
+h1{
+	margin: 20px 0px 20px 0px;
+}
+
+input{
+	padding: 10px;
+	border-radius: 5px;
+}
+
+.botones{
+	padding: 20px;
+}
+
+#ataquePikachu{
+	margin-right: 600px;
+}
+
+#c{
+	border: 10px solid;
+}
